@@ -28,4 +28,5 @@ calls = 3
 
 ### Getting input
 This case, we try to get an input number, an integer number, we might want to use a function called **get_int**.
+<br>
 int calls = get_int("Calls: ")
