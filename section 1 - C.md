@@ -7,7 +7,6 @@
 ## Variables and Types And Printing
 
 ### Variables
-
 Create an integer named **calls** that gets the value 4.
 <br>
 int calls = 4;
@@ -21,7 +20,6 @@ Calls gets 5.
 calls = 5;
 
 ### Operators
-
 int calls = 4;
 calls = calls - 1;
 calls = 3
