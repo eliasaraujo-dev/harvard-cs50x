@@ -9,7 +9,7 @@
 ### Variables
 
 Create an integer named **calls** that gets the value 4.
-int calls = 4;
+<br>int calls = 4;
 
 Here we have an integer named **x** that gets the value 50.
 int x = 50;
