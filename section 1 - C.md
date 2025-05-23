@@ -30,3 +30,19 @@ calls = 3
 This case, we try to get an input number, an integer number, we might want to use a function called **get_int**.
 
 int calls = get_int("Calls: ")
+
+### Functions
+This is the tool that will allow us to grab this input from the user and then store it in our proverbial box.
+
+### Return values
+int calls = get_int(Calls: ")
+
+"Calls: " ==>  get_int => 4
+
+### Types and format codes
+
+Numbers: int(%i), float (%f)
+
+Text: char(%c), string(%s)
+
+True/False: bool(%i)
