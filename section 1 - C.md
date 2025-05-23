@@ -21,3 +21,11 @@ Calls gets 5.
 calls = 5;
 
 ### Operators
+
+int calls = 4;
+calls = calls - 1;
+calls = 3
+
+### Getting input
+This case, we try to get an input number, an integer number, we might want to use a function called **get_int**.
+int calls = get_int("Calls: ")
