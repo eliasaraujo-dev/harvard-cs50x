@@ -9,12 +9,15 @@
 ### Variables
 
 Create an integer named **calls** that gets the value 4.
-<br>int calls = 4;
+<br>
+int calls = 4;
 
 Here we have an integer named **x** that gets the value 50.
+<br>
 int x = 50;
 
 Calls gets 5.
+<br>
 calls = 5;
 
 ### Operators
