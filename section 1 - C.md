@@ -79,4 +79,17 @@ else
   printf("Thanks for calling!");
 }
 ```
-Conditional
+Loops
+```c
+int i = 0;
+while (i < 2)
+{
+    printf("%i\n", i);
+    i = i + 1;
+}
+
+// Initialization => Boolean expression => Increment
+for (int i = 0; i < 2; i++)
+{
+    printf("%i\n", i);
+}
